@@ -12,5 +12,6 @@ void TestDemo1()
 void TestDemo2()
 {
 	System.out.println("Test2");
+	System.out.println("Test3");
 }
 }
