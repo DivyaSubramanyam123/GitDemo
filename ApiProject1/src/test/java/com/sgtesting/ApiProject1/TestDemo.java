@@ -14,4 +14,10 @@ void TestDemo2()
 	System.out.println("Test2");
 	System.out.println("Test3");
 }
+@Test
+void TestDemo3()
+{
+	System.out.println("Test2");
+	System.out.println("Test3");
+}
 }
